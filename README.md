@@ -1,5 +1,11 @@
 ## Introduction
 
+Please ensure that Cairo is installed before running the R code.
+
+Sample run command:
+
+Rscript plot1.R
+
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
